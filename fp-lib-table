@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "sparkfun 3.5mm")(type "KiCad")(uri "${KIPRJMOD}/sparkfun_3.5mm_trs.pretty")(options "")(descr ""))
+  (lib (name "raspberry-pi_rpi_hat")(type "KiCad")(uri "${KIPRJMOD}/raspberry-pi_rpi_hat.pretty")(options "")(descr ""))
+)
