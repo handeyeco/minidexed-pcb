@@ -1,0 +1,7 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"DS1","WC1602A","WC1602A",103.128000,-78.876500,0.000000,top
+"J3","Raspberry_Pi_2_3","raspberry-pi_rpi_hat",197.318400,-97.842400,90.000000,top
+"SW1","Encoder","RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm",197.550000,-97.100000,180.000000,top
+"SW2","B1","SW_Cherry_MX_1.00u_PCB",115.440000,-119.120000,0.000000,top
+"SW3","B2","SW_Cherry_MX_1.00u_PCB",138.290000,-119.120000,0.000000,top
+"SW4","B3","SW_Cherry_MX_1.00u_PCB",161.140000,-119.120000,0.000000,top

@@ -1,0 +1,42 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"C1","100nf","C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",-145.600000,-79.162500,90.000000,bottom
+"C2","10uf","C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",-149.166666,-79.162500,90.000000,bottom
+"C3","100nf","C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",-152.733332,-79.162500,90.000000,bottom
+"C4","10uf","C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",-146.000000,-90.537500,-90.000000,bottom
+"C5","100nf","C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",-149.700000,-90.537500,-90.000000,bottom
+"C6","2.2uf","C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",-159.866664,-79.162500,90.000000,bottom
+"C7","100nf","C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",-163.433330,-79.162500,90.000000,bottom
+"C8","2.2uf","C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",-156.299998,-79.162500,90.000000,bottom
+"C9","100nf","C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",-155.500000,-94.637500,-90.000000,bottom
+"C10","10uf","C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",-167.000000,-79.162500,90.000000,bottom
+"C11","10nf","C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",-203.900000,-98.000000,-90.000000,bottom
+"C12","10nf","C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",-203.900000,-90.662500,90.000000,bottom
+"C13","10uf","C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",-159.020000,-94.637500,-90.000000,bottom
+"C14","2.2nf","C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",-158.886666,-73.050000,-90.000000,bottom
+"C15","2.2nf","C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",-148.600000,-73.062500,-90.000000,bottom
+"C16","0.1uf","C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",-127.550000,-92.700000,180.000000,bottom
+"D1","1N4148WS","D_SOD-323",-110.718160,-73.050000,90.000000,bottom
+"J1","Audio Out","sparkfun_3.5mm_trs",-148.825000,-67.500000,0.000000,bottom
+"J2","MIDI In","sparkfun_3.5mm_trs",-103.028000,-67.484000,0.000000,bottom
+"J4","MIDI Thru","sparkfun_3.5mm_trs",-117.125000,-67.484000,0.000000,bottom
+"J5","MIDI Out","sparkfun_3.5mm_trs",-131.222000,-67.484000,0.000000,bottom
+"J6","GND TP","PinHeader_1x02_P2.54mm_Vertical",-160.325000,-104.300000,-90.000000,bottom
+"R1","470","R_1206_3216Metric_Pad1.30x1.75mm_HandSolder",-163.900000,-73.050000,90.000000,bottom
+"R2","10k","R_1206_3216Metric_Pad1.30x1.75mm_HandSolder",-197.500000,-107.050000,90.000000,bottom
+"R3","10k","R_1206_3216Metric_Pad1.30x1.75mm_HandSolder",-190.350000,-107.050000,90.000000,bottom
+"R4","470","R_1206_3216Metric_Pad1.30x1.75mm_HandSolder",-153.500000,-73.100000,90.000000,bottom
+"R5","10k","R_1206_3216Metric_Pad1.30x1.75mm_HandSolder",-183.200000,-107.050000,90.000000,bottom
+"R6","220","R_1206_3216Metric_Pad1.30x1.75mm_HandSolder",-104.375200,-73.050000,-90.000000,bottom
+"R7","22","R_1206_3216Metric_Pad1.30x1.75mm_HandSolder",-166.200000,-113.700000,-90.000000,bottom
+"R8","22","R_1206_3216Metric_Pad1.30x1.75mm_HandSolder",-166.200000,-91.750000,90.000000,bottom
+"R9","22","R_1206_3216Metric_Pad1.30x1.75mm_HandSolder",-166.200000,-85.500000,90.000000,bottom
+"R10","220","R_1206_3216Metric_Pad1.30x1.75mm_HandSolder",-123.574080,-73.050000,-90.000000,bottom
+"R11","220","R_1206_3216Metric_Pad1.30x1.75mm_HandSolder",-136.600000,-73.050000,-90.000000,bottom
+"R12","470","R_1206_3216Metric_Pad1.30x1.75mm_HandSolder",-114.200000,-92.700000,0.000000,bottom
+"R13","220","R_1206_3216Metric_Pad1.30x1.75mm_HandSolder",-117.061120,-73.050000,-90.000000,bottom
+"R14","220","R_1206_3216Metric_Pad1.30x1.75mm_HandSolder",-130.087040,-73.050000,-90.000000,bottom
+"RV1","10k","Potentiometer_Runtron_RM-065_Vertical",-108.100000,-85.860000,180.000000,bottom
+"U1","A3.3V ME6211C33","TSOT-23-5",-147.437500,-85.050000,0.000000,bottom
+"U2","PCM5102","TSSOP-20_4.4x6.5mm_P0.65mm",-157.800000,-87.500000,-90.000000,bottom
+"U3","74HCT14","TSSOP-14_4.4x5mm_P0.65mm",-125.662500,-86.950000,0.000000,bottom
+"U4","H11L1","TSOP-6_1.65x3.05mm_P0.95mm",-114.200000,-88.000000,-90.000000,bottom
