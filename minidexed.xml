@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/Users/matthew/Documents/kicad/projects/minidexed/minidexed.kicad_sch</source>
-    <date>Tuesday, July 23, 2024 at 08:04:25 AM</date>
+    <date>Tuesday, July 23, 2024 at 06:21:42 PM</date>
     <tool>Eeschema 6.0.11</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -636,7 +636,7 @@
     </comp>
     <comp ref="U4">
       <value>H11L1</value>
-      <footprint>Package_SO:TSOP-6_1.65x3.05mm_P0.95mm</footprint>
+      <footprint>SOP-6_6.5x7.12mm_P2.54mm:SOP-6_6.5x7.12mm_P2.54mm</footprint>
       <datasheet>https://www.onsemi.com/pub/Collateral/H11L3M-D.PDF</datasheet>
       <fields>
         <field name="LCSC">C78589</field>

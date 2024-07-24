@@ -12,4 +12,4 @@ Comment,Designator,Footprint,LCSC
 "A3.3V ME6211C33","U1","Package_TO_SOT_SMD:TSOT-23-5","C82942"
 "PCM5102","U2","Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm","C107671"
 "74HCT14","U3","Package_SO:TSSOP-14_4.4x5mm_P0.65mm","C133639"
-"H11L1","U4","Package_SO:TSOP-6_1.65x3.05mm_P0.95mm","C78589"
+"H11L1","U4","SOP-6_6.5x7.12mm_P2.54mm:SOP-6_6.5x7.12mm_P2.54mm","C78589"
