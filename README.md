@@ -5,6 +5,8 @@
 >
 > I am not responsible for anything ever.
 
+![MiniDexed](./minidexed.jpg)
+
 # MiniDexed PCB
 
 Custom PCB for [MiniDexed](https://github.com/probonopd/MiniDexed), an open-source FM synthesizer. It has:
