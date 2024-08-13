@@ -16,9 +16,16 @@ Custom PCB for [MiniDexed](https://github.com/probonopd/MiniDexed), an open-sour
 - USB MIDI
 - 3.5mm TRS audio out (via the PCM5102 DAC)
 
+Thanks to lots of folks!
+
+- [probonopd](https://github.com/probonopd) and the whole MiniDexed team
+- [diyelectromusic](https://diyelectromusic.com/) for MiniDexed work and PCB design notes
+- The whole [Dexed](https://github.com/asb2m10/dexed) lineage
+- The [KiCad](https://www.kicad.org/) maintainers
+
 ## Builds
 
-Look in `/gerbers/` for build files.
+Look in `/gerbers/` for build files and BOMs.
 
 ### 20240727
 
@@ -26,7 +33,7 @@ Working with the [MiniDexed 2024-01-16 release](https://github.com/probonopd/Min
 
 No known issues (although MIDI out is untested right now). The whole thing is about the size of a Korg NTS-1 and costs roughly $15/PCB to make (including SMT assembly and SMT parts; not including the Pi, THT components, or shipping).
 
-Requires changes to `minidexed.ini`:
+Required changes to `minidexed.ini`:
 
 ```
 # Sound device
