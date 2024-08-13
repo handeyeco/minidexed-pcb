@@ -5,7 +5,9 @@
 >
 > I am not responsible for anything ever.
 
-![MiniDexed](minidexed.jpg)
+
+![MiniDexed](minidexed-prototype.jpg)
+
 
 # MiniDexed PCB
 
