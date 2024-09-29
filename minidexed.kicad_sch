@@ -2884,6 +2884,11 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid acdfebaf-d01c-4a15-87d9-0bad9fa8678e)
   )
+  (text "TODO:\n- Add holes for 3.5mm jack braces\n- Move 3.5mm jacks higher"
+    (at 461.518 56.134 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid bc9c45a9-ce83-45dd-aba5-d9361a3984f4)
+  )
   (text "RPI" (at 462.28 128.27 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid d040eb03-11cf-4c0c-ae00-f4a2e6c57888)
