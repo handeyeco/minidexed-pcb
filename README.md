@@ -20,6 +20,8 @@ Custom PCB for [MiniDexed](https://github.com/probonopd/MiniDexed), an open-sour
 - USB MIDI
 - 3.5mm TRS audio out (via the PCM5102 DAC)
 
+See the [writeup on my blog](https://handeyeco.github.io/tech-blog/minidexed-pcb/) for a full explanation of the circuit.
+
 Thanks to lots of folks!
 
 - [probonopd](https://github.com/probonopd) and the whole MiniDexed team
